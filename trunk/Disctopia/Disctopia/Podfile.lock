@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (3.3.0)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - Branch (0.12.3):
+    - Branch/Core (= 0.12.3)
+    - Branch/without-IDFA (= 0.12.3)
+  - Branch/Core (0.12.3)
+  - Branch/without-IDFA (0.12.3)
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - CRToast (0.0.9)
+  - Fabric (1.6.7)
+  - IQKeyboardManager (4.0.1)
+  - libPhoneNumber-iOS (0.8.11)
+  - ReachabilitySwift (2.3.3)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3.0)
+  - AlamofireImage (~> 2.4.0)
+  - Branch (~> 0.12.3)
+  - Crashlytics
+  - CRToast (~> 0.0.7)
+  - Fabric
+  - IQKeyboardManager (~> 4.0.1)
+  - libPhoneNumber-iOS (~> 0.8)
+  - ReachabilitySwift (~> 2.3.3)
+  - SwiftyJSON (~> 2.3.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 9054db4a1b1ca9e363223183e01cea380159a27c
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  Branch: eced5b5201554811ecb039c74f9913b72caf6cc5
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  CRToast: 5a78c22b921c5ed3487488af605bc403a9c92fed
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  IQKeyboardManager: 0c11a0cb402a621f7aa1aff506f60ab6d2388969
+  libPhoneNumber-iOS: ded33fab2c51ee847979556aa504c9e70f32d703
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: e32b24b2981feea4fa4513dc4a0c83658a867edf
+
+COCOAPODS: 1.1.1

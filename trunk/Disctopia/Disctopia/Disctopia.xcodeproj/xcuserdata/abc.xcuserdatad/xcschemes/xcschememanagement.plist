@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Disctopia-Staging.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Disctopia.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2841F1D91CCFF55600D609CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2867E8261C74C7D400FCEBBD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>28C69D381CD8E3D600F839D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>28F4E1581CDA53B5002B70A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

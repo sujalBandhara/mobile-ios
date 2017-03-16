@@ -1,0 +1,67 @@
+{
+<<<<<<< .mine
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C50490C77B976679E91EB69A80284DFB10E623D1+++5B52EA9",
+=======
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C50490C77B976679E91EB69A80284DFB10E623D1+++24FD54A",
+>>>>>>> .r4469
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+<<<<<<< .mine
+    "C50490C77B976679E91EB69A80284DFB10E623D1+++5B52EA9" : {
+=======
+    "C50490C77B976679E91EB69A80284DFB10E623D1+++24FD54A" : {
+>>>>>>> .r4469
+
+<<<<<<< .mine
+    },
+    "9e0c0f12-e6fc-7542-bf47-cf53327243ef++331+++8C85151" : {
+
+=======
+    },
+    "9e0c0f12-e6fc-7542-bf47-cf53327243ef++331+++B792C0C" : {
+
+>>>>>>> .r4469
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+<<<<<<< .mine
+    "C50490C77B976679E91EB69A80284DFB10E623D1+++5B52EA9" : 0,
+    "9e0c0f12-e6fc-7542-bf47-cf53327243ef++331+++8C85151" : 0
+=======
+    "C50490C77B976679E91EB69A80284DFB10E623D1+++24FD54A" : 0,
+    "9e0c0f12-e6fc-7542-bf47-cf53327243ef++331+++B792C0C" : 0
+>>>>>>> .r4469
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EDBE20FF-CD96-4D68-AED6-C7D700330356",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+<<<<<<< .mine
+    "C50490C77B976679E91EB69A80284DFB10E623D1+++5B52EA9" : "Disctopia\/",
+    "9e0c0f12-e6fc-7542-bf47-cf53327243ef++331+++8C85151" : "Disctopia\/"
+=======
+    "C50490C77B976679E91EB69A80284DFB10E623D1+++24FD54A" : "Disctopia\/",
+    "9e0c0f12-e6fc-7542-bf47-cf53327243ef++331+++B792C0C" : "Disctopia\/"
+>>>>>>> .r4469
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Disctopia",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Disctopia\/Disctopia.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/byptserver:8088\/svn\/iPhone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+<<<<<<< .mine
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9e0c0f12-e6fc-7542-bf47-cf53327243ef++331+++8C85151"
+=======
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9e0c0f12-e6fc-7542-bf47-cf53327243ef++331+++B792C0C"
+>>>>>>> .r4469
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jadeep82\/Disctopia.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+<<<<<<< .mine
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C50490C77B976679E91EB69A80284DFB10E623D1+++5B52EA9"
+=======
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C50490C77B976679E91EB69A80284DFB10E623D1+++24FD54A"
+>>>>>>> .r4469
+    }
+  ]
+}

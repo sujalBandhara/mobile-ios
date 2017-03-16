@@ -1,0 +1,22 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Disctopia' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Disctopia
+pod 'ReachabilitySwift', '~> 2.3.3'
+pod 'IQKeyboardManager', '~> 4.0.1'
+pod 'libPhoneNumber-iOS', '~> 0.8'
+#pod 'KFSwiftImageLoader', '~> 2.0'
+pod 'AlamofireImage', '~> 2.4.0'
+pod 'SwiftyJSON', '~> 2.3.2'
+pod 'Alamofire', '~> 3.3.0'
+pod 'CRToast', '~> 0.0.7'
+#pod 'PPBlinkID', '~> 1.2.0'
+pod ‘Fabric’
+pod ‘Crashlytics’
+pod 'Branch', '~> 0.12.3'
+end
+
